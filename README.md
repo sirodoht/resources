@@ -10,6 +10,8 @@ Various links I have collected over time, mainly for web development.
 * [Learn you a Haskell](http://learnyouahaskell.com/)
 * [NodeSchool](http://nodeschool.io/)
 
+##
+
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 * [simpl.info](https://simpl.info/)
 * [Learn CSS Layout](http://learnlayout.com/)
@@ -17,6 +19,8 @@ Various links I have collected over time, mainly for web development.
 * [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
 * [How to center in CSS](http://howtocenterincss.com/)
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+
+##
 
 * [Coolors](https://coolors.co/)
 * [Colour Lovers](http://www.colourlovers.com/)
@@ -29,9 +33,13 @@ Various links I have collected over time, mainly for web development.
 * [Texture Crate](http://www.texturecrate.com/)
 * [Contrast Ratio](http://leaverou.github.io/contrast-ratio/)
 
+##
+
 * [Modular Scale](http://www.modularscale.com/)
 * [Golden Ratio Typography Calculator](http://www.pearsonified.com/typography/)
 * [Type Scale](http://type-scale.com/)
+
+##
 
 * [Find a photo](http://finda.photo/)
 * [Unsplash](https://unsplash.com/)
@@ -41,6 +49,8 @@ Various links I have collected over time, mainly for web development.
 * [Social Debug](http://socialdebug.com/)
 * [HEAD](https://github.com/joshbuchea/HEAD)
 * [Simple Sharing Buttons Generator](https://simplesharingbuttons.com/)
+
+##
 
 * [awesome](https://github.com/sindresorhus/awesome)
 * [On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html)
