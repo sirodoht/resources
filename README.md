@@ -56,10 +56,11 @@ Various links I have collected over time, mainly for web development.
 
 ##
 
-* [Code School](https://www.codeschool.com/)
-* [treehouse](https://teamtreehouse.com/)
 * [egghead](https://egghead.io/)
-* [Learn Python the hard way](http://learnpythonthehardway.org/)
-* [Dive into Python 3](http://www.diveintopython3.net/)
-* [Learn you a Haskell](http://learnyouahaskell.com/)
+* [treehouse](https://teamtreehouse.com/)
+* [Code School](https://www.codeschool.com/)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [NodeSchool](http://nodeschool.io/)
+* [Learn you a Haskell](http://learnyouahaskell.com/)
+* [Dive into Python 3](http://www.diveintopython3.net/)
+* [Learn Python the hard way](http://learnpythonthehardway.org/)
