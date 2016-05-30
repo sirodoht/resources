@@ -7,6 +7,7 @@ Various links I have collected over time, mainly for web development.
 * [egghead](https://egghead.io/)
 * [Learn Python the hard way](http://learnpythonthehardway.org/)
 * [Dive into Python 3](http://www.diveintopython3.net/)
+* [Learn you a Haskell](http://learnyouahaskell.com/)
 * [NodeSchool](http://nodeschool.io/)
 
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
@@ -38,6 +39,7 @@ Various links I have collected over time, mainly for web development.
 * [FontAwesome](http://fontawesome.io/)
 * [Emojipedia](http://emojipedia.org/)
 * [Social Debug](http://socialdebug.com/)
+* [HEAD](https://github.com/joshbuchea/HEAD)
 * [Simple Sharing Buttons Generator](https://simplesharingbuttons.com/)
 
 * [awesome](https://github.com/sindresorhus/awesome)
@@ -46,6 +48,7 @@ Various links I have collected over time, mainly for web development.
 * [regex101](https://regex101.com/)
 * [Every Time Zone](http://everytimezone.com/)
 * [Appear.in](https://appear.in/)
+* [Ketchup Time](https://ketchuptime.xyz/)
 * [HN Tools of The Trade](https://github.com/cjbarber/ToolsOfTheTrade)
 * [HTML2Jade](http://html2jade.org/)
 * [explainshell.com](http://explainshell.com/)
