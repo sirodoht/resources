@@ -2,26 +2,6 @@
 
 Various links I have collected over time, mainly for web development.
 
-* [Code School](https://www.codeschool.com/)
-* [treehouse](https://teamtreehouse.com/)
-* [egghead](https://egghead.io/)
-* [Learn Python the hard way](http://learnpythonthehardway.org/)
-* [Dive into Python 3](http://www.diveintopython3.net/)
-* [Learn you a Haskell](http://learnyouahaskell.com/)
-* [NodeSchool](http://nodeschool.io/)
-
-##
-
-* [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
-* [simpl.info](https://simpl.info/)
-* [Learn CSS Layout](http://learnlayout.com/)
-* [WTF, forms?](http://wtfforms.com/)
-* [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
-* [How to center in CSS](http://howtocenterincss.com/)
-* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
-
-##
-
 * [Coolors](https://coolors.co/)
 * [Colour Lovers](http://www.colourlovers.com/)
 * [colourcode](http://www.colourco.de/)
@@ -53,14 +33,33 @@ Various links I have collected over time, mainly for web development.
 ##
 
 * [awesome](https://github.com/sindresorhus/awesome)
+* [HN Tools of The Trade](https://github.com/cjbarber/ToolsOfTheTrade)
+* [DevDocs](https://devdocs.io/)
 * [On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html)
+* [Appear.in](https://appear.in/)
+* [explainshell.com](http://explainshell.com/)
 * [Library Genesis](http://gen.lib.rus.ec/)
 * [regex101](https://regex101.com/)
 * [Every Time Zone](http://everytimezone.com/)
-* [Appear.in](https://appear.in/)
 * [Ketchup Time](https://ketchuptime.xyz/)
-* [DevDocs](https://devdocs.io/)
-* [HN Tools of The Trade](https://github.com/cjbarber/ToolsOfTheTrade)
 * [HTML2Jade](http://html2jade.org/)
-* [explainshell.com](http://explainshell.com/)
 * [transfer.sh](https://transfer.sh/)
+
+##
+
+* [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [Learn CSS Layout](http://learnlayout.com/)
+* [WTF, forms?](http://wtfforms.com/)
+* [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
+* [How to center in CSS](http://howtocenterincss.com/)
+* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+
+##
+
+* [Code School](https://www.codeschool.com/)
+* [treehouse](https://teamtreehouse.com/)
+* [egghead](https://egghead.io/)
+* [Learn Python the hard way](http://learnpythonthehardway.org/)
+* [Dive into Python 3](http://www.diveintopython3.net/)
+* [Learn you a Haskell](http://learnyouahaskell.com/)
+* [NodeSchool](http://nodeschool.io/)
