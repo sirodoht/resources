@@ -59,6 +59,7 @@ Various links I have collected over time, mainly for web development.
 * [Every Time Zone](http://everytimezone.com/)
 * [Appear.in](https://appear.in/)
 * [Ketchup Time](https://ketchuptime.xyz/)
+* [DevDocs](https://devdocs.io/)
 * [HN Tools of The Trade](https://github.com/cjbarber/ToolsOfTheTrade)
 * [HTML2Jade](http://html2jade.org/)
 * [explainshell.com](http://explainshell.com/)
