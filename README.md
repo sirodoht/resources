@@ -35,6 +35,7 @@ Various links I have collected over time, mainly for web development.
 * [awesome](https://github.com/sindresorhus/awesome)
 * [HN Tools of The Trade](https://github.com/cjbarber/ToolsOfTheTrade)
 * [DevDocs](https://devdocs.io/)
+* [tl;dr legal](https://tldrlegal.com/)
 * [On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html)
 * [Appear.in](https://appear.in/)
 * [explainshell.com](http://explainshell.com/)
