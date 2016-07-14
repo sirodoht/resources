@@ -67,3 +67,5 @@ Various links I have collected over time, mainly for web development.
 * [Learn you a Haskell](http://learnyouahaskell.com/)
 * [Dive into Python 3](http://www.diveintopython3.net/)
 * [Learn Python the hard way](http://learnpythonthehardway.org/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+
