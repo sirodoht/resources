@@ -23,6 +23,7 @@ Various links I have collected over time, mainly for web development.
 
 * [Find a photo](http://finda.photo/)
 * [Unsplash](https://unsplash.com/)
+* [TinyPNG](https://tinypng.com/)
 * [Placehold.it](http://placehold.it/)
 * [FontAwesome](http://fontawesome.io/)
 * [Emojipedia](http://emojipedia.org/)
