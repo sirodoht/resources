@@ -58,7 +58,6 @@ Various links I have collected over time, mainly for web development.
 
 ##
 
-* [One Click to Be Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro)
 * [egghead](https://egghead.io/)
 * [treehouse](https://teamtreehouse.com/)
 * [Code School](https://www.codeschool.com/)
