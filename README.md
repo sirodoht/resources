@@ -68,4 +68,5 @@ Various links I have collected over time, mainly for web development.
 * [Dive into Python 3](http://www.diveintopython3.net/)
 * [Learn Python the hard way](http://learnpythonthehardway.org/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
