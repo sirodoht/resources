@@ -6,6 +6,7 @@ Various links I have collected over time, mainly for web development.
 * [Colour Lovers](http://www.colourlovers.com/)
 * [colourcode](http://www.colourco.de/)
 * [ColorHexa](http://www.colorhexa.com/)
+* [Open Color](https://yeun.github.io/open-color/swatches.html)
 * [Material Design Colors](https://www.materialui.co/)
 * [uiGradients](http://uigradients.com/)
 * [Gradients.io](http://gradients.io/)
@@ -30,6 +31,7 @@ Various links I have collected over time, mainly for web development.
 * [Social Debug](http://socialdebug.com/)
 * [HEAD](https://github.com/joshbuchea/HEAD)
 * [Simple Sharing Buttons Generator](https://simplesharingbuttons.com/)
+* [svgo](https://github.com/svg/svgo)
 
 ##
 
