@@ -7,6 +7,7 @@ Various links I have collected over time, mainly for web development.
 * [colourcode](http://www.colourco.de/)
 * [ColorHexa](http://www.colorhexa.com/)
 * [Open Color](https://yeun.github.io/open-color/swatches.html)
+* [Color Claim](http://www.vanschneider.com/colors/)
 * [Material Design Colors](https://www.materialui.co/)
 * [uiGradients](http://uigradients.com/)
 * [Gradients.io](http://gradients.io/)
