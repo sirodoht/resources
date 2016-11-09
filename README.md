@@ -64,6 +64,7 @@ Various links I have collected over time, mainly for web development.
 * [egghead](https://egghead.io/)
 * [treehouse](https://teamtreehouse.com/)
 * [Code School](https://www.codeschool.com/)
+* [UX Myths](http://uxmyths.com/)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [NodeSchool](http://nodeschool.io/)
 * [One Click to Be Pro](https://github.com/vic317yeh/One-Click-to-Be-Pro)
