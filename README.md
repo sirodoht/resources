@@ -56,6 +56,7 @@ Various links I have collected over time, mainly for web development.
 * [Learn CSS Layout](http://learnlayout.com/)
 * [WTF, forms?](http://wtfforms.com/)
 * [WTF, HTML and CSS?](http://wtfhtmlcss.com/)
+* [htmlreference.io](http://htmlreference.io/)
 * [How to center in CSS](http://howtocenterincss.com/)
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
