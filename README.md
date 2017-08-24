@@ -32,6 +32,7 @@ Various links I have collected over time, mainly for web development.
 * [Social Debug](http://socialdebug.com/)
 * [HEAD](https://github.com/joshbuchea/HEAD)
 * [Simple Sharing Buttons Generator](https://simplesharingbuttons.com/)
+* [Feather Icons](https://feathericons.com/)
 * [svgo](https://github.com/svg/svgo)
 
 ##
