@@ -6,7 +6,9 @@ Various links I have collected over time, mainly for web development.
 * [Colour Lovers](http://www.colourlovers.com/)
 * [colourcode](http://www.colourco.de/)
 * [ColorHexa](http://www.colorhexa.com/)
+* [0to255](http://www.0to255.com/)
 * [Open Color](https://yeun.github.io/open-color/swatches.html)
+* [clrs.cc](http://clrs.cc/)
 * [Color Claim](http://www.vanschneider.com/colors/)
 * [Material Design Colors](https://www.materialui.co/)
 * [uiGradients](http://uigradients.com/)
@@ -32,6 +34,7 @@ Various links I have collected over time, mainly for web development.
 * [Social Debug](http://socialdebug.com/)
 * [HEAD](https://github.com/joshbuchea/HEAD)
 * [Simple Sharing Buttons Generator](https://simplesharingbuttons.com/)
+* [Froala Design Blocks](https://www.froala.com/design-blocks#playground)
 * [Feather Icons](https://feathericons.com/)
 * [svgo](https://github.com/svg/svgo)
 
@@ -75,4 +78,3 @@ Various links I have collected over time, mainly for web development.
 * [Learn Python the hard way](http://learnpythonthehardway.org/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-
