@@ -8,7 +8,7 @@ Various links I have collected over time, mainly for web development.
 * [ColorHexa](http://www.colorhexa.com/)
 * [0to255](http://www.0to255.com/)
 * [uicolors](http://getuicolors.com/)
-* [Open Color](https://yeun.github.io/open-color/swatches.html)
+* [Open Color](https://yeun.github.io/open-color/)
 * [clrs.cc](http://clrs.cc/)
 * [Color Claim](http://www.vanschneider.com/colors/)
 * [Material Design Colors](https://www.materialui.co/)
