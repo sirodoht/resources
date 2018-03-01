@@ -14,6 +14,8 @@ Various links I have collected over time, mainly for web development.
 * [Material Design Colors](https://www.materialui.co/)
 * [uiGradients](http://uigradients.com/)
 * [Gradients.io](http://gradients.io/)
+* [CSS Gradients Gears](https://gradients.cssgears.com/)
+* [Web Gradients](https://webgradients.com/)
 * [Subtle Patterns](http://subtlepatterns.com/)
 * [Texture Crate](http://www.texturecrate.com/)
 * [Contrast Ratio](http://leaverou.github.io/contrast-ratio/)
