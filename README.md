@@ -12,6 +12,7 @@ Various links I have collected over time, mainly for web development.
 * [clrs.cc](http://clrs.cc/)
 * [Color Claim](http://www.vanschneider.com/colors/)
 * [Material Design Colors](https://www.materialui.co/)
+* [Picular](https://picular.co/)
 * [uiGradients](http://uigradients.com/)
 * [Gradients.io](http://gradients.io/)
 * [CSS Gradients Gears](https://gradients.cssgears.com/)
