@@ -20,6 +20,7 @@ Various links I have collected over time, mainly for web development.
 * [Subtle Patterns](http://subtlepatterns.com/)
 * [Texture Crate](http://www.texturecrate.com/)
 * [Contrast Ratio](http://leaverou.github.io/contrast-ratio/)
+* [Shadows Pen](https://codepen.io/sdthornton/pen/wBZdXq)
 
 ##
 
