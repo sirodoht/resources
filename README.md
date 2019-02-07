@@ -18,13 +18,13 @@ Various links I have collected over time, mainly for web development.
 * [Web Gradients](https://webgradients.com/)
 * [Contrast Ratio](http://leaverou.github.io/contrast-ratio/)
 
-##
+---
 
 * [Modular Scale](http://www.modularscale.com/)
 * [Golden Ratio Typography Calculator](http://www.pearsonified.com/typography/)
 * [Type Scale](http://type-scale.com/)
 
-##
+---
 
 * [Find a photo](http://finda.photo/)
 * [Unsplash](https://unsplash.com/)
@@ -34,7 +34,7 @@ Various links I have collected over time, mainly for web development.
 * [Social Debug](http://socialdebug.com/)
 * [HEAD](https://github.com/joshbuchea/HEAD)
 
-##
+---
 
 * [HN Tools of The Trade](https://github.com/cjbarber/ToolsOfTheTrade)
 * [On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html)
@@ -44,6 +44,6 @@ Various links I have collected over time, mainly for web development.
 * [regex101](https://regex101.com/)
 * [Every Time Zone](http://everytimezone.com/)
 
-##
+---
 
 * [HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
