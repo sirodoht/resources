@@ -4,6 +4,7 @@ Various links I have collected over time, mainly for web development.
 
 * [Coolors](https://coolors.co/)
 * [colourcode](http://www.colourco.de/)
+* [Colormind](http://colormind.io/)
 * [ColorHexa](http://www.colorhexa.com/)
 * [uicolors](http://getuicolors.com/)
 * [Open Color](https://yeun.github.io/open-color/)
@@ -12,6 +13,9 @@ Various links I have collected over time, mainly for web development.
 * [Material Design Colors](https://www.materialui.co/)
 * [Picular](https://picular.co/)
 * [ColorBox](https://www.colorbox.io)
+
+---
+
 * [uiGradients](http://uigradients.com/)
 * [Gradients.io](http://gradients.io/)
 * [CSS Gradients Gears](https://gradients.cssgears.com/)
