@@ -13,6 +13,7 @@ Various links I have collected over time, mainly for web development.
 * [Material Design Colors](https://www.materialui.co/)
 * [Picular](https://picular.co/)
 * [ColorBox](https://www.colorbox.io)
+* [Color Supply](https://colorsupplyyy.com/app)
 
 ---
 
