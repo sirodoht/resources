@@ -31,6 +31,10 @@ Various links I have collected over time, mainly for web development.
 
 ---
 
+* [CSSFX](https://cssfx.dev/)
+
+---
+
 * [Find a photo](http://finda.photo/)
 * [Unsplash](https://unsplash.com/)
 * [TinyPNG](https://tinypng.com/)
